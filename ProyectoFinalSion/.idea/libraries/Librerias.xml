@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Librerias">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Librerias/mysql-connector-java-5.1.49.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/jasperreports-6.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/mysql-connector-java-5.1.49-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/bridj-0.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

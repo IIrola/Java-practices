@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Control_Escolar_Avanzado">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Control_Escolar_Avanzado.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
